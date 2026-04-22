@@ -1,1 +1,11 @@
+pregunta:Cómo compartir información confiable en internet.
+
+respuesta: 
+1: leer bien la informacion
+2: mirar el canal que emite la noticia  
+3: corrovorar si el canal es autentico 
+4: averiguar en varios canales de mi confianza 
+5: comparar informacion 
+6: corroborar si es la misma informacion que voy a compartir 
+7: compartir la informacion
 
