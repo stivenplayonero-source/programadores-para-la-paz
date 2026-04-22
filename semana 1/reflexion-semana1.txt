@@ -1,1 +1,6 @@
+el uso responsable de la informacion en internet es el pilar fundamental para una participacion ciudadana efectiva, ya que permite a los individuos discernir entre datos veraces y noticias falsas, fortaleciendo asi el debate democratico. Cuando esta etica informariva se traslada al ambito tecnico, herramientas como (GIT) se vuelven esenciales para la organizacion del trabajo, pues fomentan la transparencia la trazabilidad y la colaboracion abierta. existe una relacion directa:asi como git permite gestionar versiones y constribuciones de forma ordenada en un proyecto de software, la ciudadania digital utiliza la red para co-crear soluciones sociales de manera estructurada. En definitiva, la combinacion de responsabilidad etica, compromiso social y metodologia tecnica garantiza que la tecnologia sirva como un motor de cambio positivo y coordinado para la comunidad.
 
+puntos clave de la relacion:
+1: Responsabilidad e informacion: Garantiza que la base de nuestras acciones y opiniones sea solida y etica.
+2: P articipacion Ciudadana: es le ejercicio de involucrarse en asuntos publicos usando medios digitales.
+3: Git y trabajo tecnico: aporta la estructura necesaria (colaboracion, historial y orden) para que las ideas ciudadanas se transformen en proyectos tecnicos ejecutables y transparentes.
